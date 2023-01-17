@@ -6,7 +6,7 @@ Maker Media GmbH
 
 # 3-in-1-Werkbank
 
-## Mobile Werkbank, Regal und Werkzeugkiste in einem.
+## Kompatibel zum 20mm-Festool-Lochraster
 
 **Diese mobile Maker-Werkbank ist ein Multitalent: Befestigt man sie mit Schraubzwingen am Küchentisch, sorgt sie für eine angenehme Arbeitshöhe und bietet verschiedene Spannmöglichkeiten. Hängt man sie an die Wand, wird sie zum Werkzeugregal. Und dreht man sie um, verwandelt sie sich in eine Werkzeugkiste. Außerdem ist sie schnell und günstig gebaut.**
 
